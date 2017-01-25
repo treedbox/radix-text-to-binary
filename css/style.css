@@ -1,0 +1,35 @@
+*,
+*:before,
+*:after{
+  box-sizing:border-box;
+}
+html,body{
+	margin:0;
+	padding:0;
+	height:100%;
+}
+h1, h2, h3, h4, h5{
+	margin-top:0;
+	color:#fff;
+  font-weight: normal;
+}
+body{
+	background-color:#3E2723;
+	text-align:center;
+  color: #fff;
+}
+a{
+  color: #fd0;
+  text-decoration: none;
+}
+textarea{
+  width: calc(100% - 100px);
+  max-width: 760px;
+  min-height: 200px;
+  padding: 10px;
+  margin: 0 auto;
+  background-color: #FFF9C4;
+}
+textarea:focus{
+  background-color: #FFEE58;
+}
