@@ -13,7 +13,7 @@ Convert text to any radix base from 2 to 36:
 * **Base36** to text, **text** to Base36.
 
 ## Online Test
-[https://github.com/treedbox/radix-text-to-binary](https://github.com/treedbox/radix-text-to-binary)
+[https://treedbox.github.io/radix-text-to-binary](https://treedbox.github.io/radix-text-to-binary/)
 
 ## Example
 Type `a` in **text** input and you get `1100001` in radix input,
